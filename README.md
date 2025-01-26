@@ -4,8 +4,8 @@ Welcome to my portfolio! I am a passionate data scientist with a focus on health
 
 ## Projects
 
-1. **[Predictive Modeling for Breast Cancer Diagnosis Using Machine Learning](<https://github.com/Niklauzi/Machine-Learning-Projects/blob/main/Health%20Domain/Breast%20Cancer%20Wisconsin%20(Diagnostic)/Breast%20Cancer%20Wisconsin%20(Diagnostic).ipynb>)**  
-   Developed a machine learning model for breast cancer diagnosis, achieving 96.33% accuracy, 95% precision, and 90% recall by preprocessing clinical data, engineering features, balancing the dataset, and evaluating performance with metrics like ROC-AUC (0.99)..
+1. **[Predictive Modeling for Breast Cancer Diagnosis Using Machine Learning](https://github.com/Niklauzi/Breast-Cancer-Wisconsin-Diagnostic/blob/master/Breast%20Cancer%20Wisconsin%20Diagnostic.ipynb)**  
+   Developed a **Machining Learning** model for breast cancer diagnosis, achieving **98% accuracy**, **98% precision**, and **98% recall** by preprocessing clinical data, balancing the dataset with **SMOTE**, and evaluating performance using metrics like **ROC-AUC (1.00)** and **F1-Score (0.98)**. Visualized results through **ROC curves**, **precision-recall curves**, and **feature importance plots** to ensure robust and interpretable outcomes.
 
 ## Contact
 
